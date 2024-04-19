@@ -1,5 +1,7 @@
 This is where I save nandgame. You probably have no interest in seeing this unless you want to see my terribly organized wires. thx github 😘
 
+---
+
 <details>
  <summary>2024-04-18T20:59-08</summary>
   
